@@ -16,5 +16,9 @@
 
 返回账户页面链接 account
 数字货币充值确定后跳转 ../ba/recharge
-数字货币充值确定后跳转 ../ca/recharge
+法定货币充值
+
+选择充值渠道，汇率，限额
+
+确定后跳转 ../ca/recharge?channel=
 
